@@ -12,4 +12,4 @@
 
 <h2>Dominos</h2>
 
-<a href="https://spectacular-peony-f3eda2.netlify.app/"> <img src="dominos-dis.png"> </a>
+<a href="https://storied-truffle-05a912.netlify.app/"> <img src="dominos-dis.png"> </a>
