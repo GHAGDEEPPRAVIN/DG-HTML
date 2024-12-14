@@ -6,7 +6,7 @@
 
 <h2>mustacchio</h2>
 
-<a href="[https://spectacular-peony-f3eda2.netlify.app/](https://675d0efd2595e488dbfc0370--celebrated-salmiakki-eba4c9.netlify.app/)"> <img src="mustacchio-web.png"> </a>
+<a href="https://celebrated-salmiakki-eba4c9.netlify.app/"> <img src="mustacchio-web.png"> </a>
 
 
 
